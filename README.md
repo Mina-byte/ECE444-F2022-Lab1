@@ -34,3 +34,7 @@ Mina Assaad
 ![Alt text](images/Activity5_5.png?raw=true "Activity 5_5")
 
 ![Alt text](images/Activity5_6.png?raw=true "Activity 5_6")
+
+**Activity 6**
+
+[My ECE444-F2022-EP repo](https://github.com/Mina-byte/ECE444-F2022-EP)
