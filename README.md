@@ -44,3 +44,9 @@ Mina Assaad
 ![Alt text](images/Activity7_2.png?raw=true "Activity 7_2")
 
 ![Alt text](images/Activity7_1.png?raw=true "Activity 7_1")
+
+**Activity 8**
+
+![Alt text](images/Activity8_1.png?raw=true "Activity 8_1")
+
+![Alt text](images/Activity8_2.png?raw=true "Activity 8_2")
